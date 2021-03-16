@@ -1,0 +1,17 @@
+.key {
+    background:mistyrose;
+    border-radius: 6px;
+    padding: 24px 32px;
+    margin: auto;
+    line-height: 16px;
+    font-weight: 500;
+    color: midnightblue;
+    font-weight: 800;
+}
+
+.key:hover{
+    background-color:lightpink;
+    outline: none;
+}
+
+

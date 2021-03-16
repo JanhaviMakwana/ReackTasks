@@ -1,0 +1,21 @@
+.Input{
+    margin: 100px;
+    margin-bottom: 0;
+}
+
+.btn{
+    width: 80px;
+    height: 32px;
+    margin: 10px;
+    border-radius: 5px;
+    color: navy;
+    font-weight: 800;
+}
+
+.btn.start, .btn.reset{
+    background-color: green; 
+}
+
+.btn.stop, .btn.resume{
+    background-color: red;
+}

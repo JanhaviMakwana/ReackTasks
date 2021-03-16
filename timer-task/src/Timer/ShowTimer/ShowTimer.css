@@ -1,0 +1,12 @@
+.showTimer.danger{
+
+    background-color: red;
+}
+
+.showTimer{
+    display: inline-block;  
+    width: 200px;
+    height: 100px;
+    border-radius: 6px;
+    background-color: rosybrown;
+}

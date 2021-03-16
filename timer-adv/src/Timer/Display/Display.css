@@ -1,0 +1,33 @@
+.label{
+    display: inline-block;
+    width: 40px;
+    margin: 20px;
+}
+
+.Input{
+    width: 40px;
+    height: 25px;
+    margin: 15px;
+    display: inline;
+    border: none;
+    border-bottom: 1px solid #212226;
+    text-align: center;
+}
+
+.Input:focus{
+    outline: none;
+}
+
+.span{
+    display: inline-block;
+}
+
+.display{
+    display: inline-block;
+    background-color: #dddbdb;
+}
+.time{
+    margin: 50px;
+    line-height: 5px;
+    font-weight: bold;
+}

@@ -1,0 +1,29 @@
+.btn{
+    width: 80px;
+    height: 40px;
+    border-radius: 6px;
+    background: green;
+    color: black;
+    font-weight: 800;
+}
+
+
+.btn.stop{
+    background: red ;
+}
+.btn.reset{
+    background: red ;
+}
+
+.btn:hover {
+    background: seagreen;
+}
+
+.btn.stop:hover{
+    background-color: lightcoral;
+}
+
+
+.btn.reset:hover{
+    background-color: lightcoral;
+}
