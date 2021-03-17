@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "Break The Silence: The Movie",
+        "description": "K-pop sensation BTS embark on their 2019 'Love Yourself: Speak Yourself' Tour.",
+        "year": 2020,
+        "imageUrl": "break_the_silence.jpg",
+        "rating": 7.8
+    },
+    {
+        "id": 2,
+        "title": "Jumanji : Welcome To The Jungle",
+        "description": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.",
+        "year": 2017,
+        "imageUrl": "jumanji_welcome_to_the_jungle.jpg",
+        "rating": 6.9
+    },
+    {
+        "id": 3,
+        "title": "Resident Evil",
+        "description": "A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.",
+        "year": 2002,
+        "imageUrl": "resident_evil.jpg",
+        "rating": 6.7
+    },
+    {
+        "id": 4,
+        "title": "The Good Dinosaur",
+        "description": "In a world where dinosaurs and humans live side-by-side, an Apatosaurus named Arlo makes an unlikely human friend.",
+        "year": 2015,
+        "imageUrl": "the_good_dinosaur.jpg",
+        "rating": 6.7
+    },
+    {
+        "id": 5,
+        "title": "Kesari",
+        "description": "Based on an incredible true story of the Battle of Saragarhi in which an army of 21 Sikhs fought against 10,000 Afghans in 1897.",
+        "year": 2019,
+        "imageUrl": "kesari.jpg",
+        "rating": 7.4
+    },
+    {
+        "id": 6,
+        "title": "Uri : The Surgical Strike",
+        "description": "Indian army special forces execute a covert operation, avenging the killing of fellow army men at their base by a terrorist group.",
+        "year": 2018,
+        "imageUrl": "uri_the_surgical_strike.jpg",
+        "rating": 8.2
+    },
+    {
+        "id": 7,
+        "title": "Satyamev Jayate",
+        "description": "An honest cop attempts to hunt down a vigilante who kills corrupt cops by setting them on fire.",
+        "year": 2018,
+        "imageUrl": "satyamev_jayate.jpg",
+        "rating": 5.7
+    },
+    {
+        "id": 8,
+        "title": "Raazi",
+        "description": "A Kashmiri woman agrees to marry a Pakistani army officer in order to spy on Pakistan during the Indo-Pakistan War of 1971.",
+        "year": 2018,
+        "imageUrl": "raazi.jpg",
+        "rating": 7.8
+    },
+    {
+        "id": 9,
+        "title": "The Maze Runner",
+        "description": "Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow 'runners' for a shot at escape.",
+        "year": 2014,
+        "imageUrl": "the_maze_runner.jpg",
+        "rating": 6.8
+    },
+    {
+        "id": 10,
+        "title": "Inception",
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. ",
+        "year": 2010,
+        "imageUrl": "inception.jpg",
+        "rating": 8.8
+    },
+    {
+        "id": 11,
+        "title": "Joker",
+        "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+        "year": 2019,
+        "imageUrl": "joker.jpg",
+        "rating": 8.4
+    },
+    {
+        "id": 12,
+        "title": "King Kong",
+        "description": "A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.",
+        "year": 2005,
+        "imageUrl": "king_kong.jpg",
+        "rating": 7.2
+    },
+    {
+        "id": 13,
+        "title": "Jurassic World",
+        "description": "A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes on a killing spree. ",
+        "year": 2015,
+        "imageUrl": "jurassic_world.jpg",
+        "rating": 7.0
+    },
+    {
+        "id": 14,
+        "title": "Rampage",
+        "description": "When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.",
+        "year": 2018,
+        "imageUrl": "rampage.jpg",
+        "rating": 6.1
+    },
+    {
+        "id": 15,
+        "title": "Venom",
+        "description": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+        "year": 2018,
+        "imageUrl": "venom.jpg",
+        "rating": 6.7
+    }
+]

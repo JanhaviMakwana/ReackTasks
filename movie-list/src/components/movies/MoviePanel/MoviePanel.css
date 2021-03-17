@@ -1,0 +1,25 @@
+.MovieImage {
+    height: 300px;
+    width: 200px;
+}
+
+.MoviePanel{
+    display:inline-block;
+    text-align: center;
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #dcdcdc;
+    margin:3px;
+    background-color: #dcdcdc;
+}
+
+.MovieDesc{
+    text-align: center;
+    height: 130px;
+}
+
+.MovieRating{
+    font-weight: 900;
+    font-size: 20px;
+    margin: 0;
+}
