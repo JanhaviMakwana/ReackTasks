@@ -1,0 +1,33 @@
+/* .Post {
+    background-color: aquamarine;
+    display: inline-block;
+    border-radius: 3px;
+    width: 310px;
+    height: 270px;
+    justify-items: left;
+    margin: 5px;
+    padding: 5px;
+} */
+.Post {
+    width: 300px;
+    height: 270px;
+    padding: 16px;
+    text-align: center;
+    border: 1px solid  #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 3px #ccc;
+    background-color: #C0DDF5;
+    margin: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: all 0.2s linear;
+}
+
+.Post:hover{
+    transform: scale(1.05);
+}
+
+.Post:hover,
+.Post:active {
+    background-color: #ccc;
+}

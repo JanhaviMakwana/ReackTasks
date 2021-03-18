@@ -1,0 +1,33 @@
+.FullPost {
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    text-align: center;
+}
+
+#loading{
+    height: 500px;
+}
+.Edit label {
+    display: block;
+    color: grey;
+}
+
+.Edit button {
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    font-weight: 800;
+    border-radius: 5px;
+    background-color:transparent;
+    cursor: pointer;
+    outline: none;
+    color: black;
+}
+
+.Edit button:hover,
+.Edit button:active {
+    color: #521751;
+    background-color: cornflowerblue;
+}
